@@ -13,11 +13,11 @@
 				<p>
 				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/D"><img src="/Windows Icons - PNG/shell32.dll_14_10-6.png" alt="Data 1" width="32" height="32" /><br>Data 1</a>
 				<p>
-				<a href="/E"><img src="/Windows Icons - PNG/shell32.dll_14_10-6.png" alt="Data 2" width="32" height="32" /><br>Data 2</a>
+				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/E"><img src="/Windows Icons - PNG/shell32.dll_14_10-6.png" alt="Data 2" width="32" height="32" /><br>Data 2</a>
 				<p>
-				<a href="/Shared"><img src="/Windows Icons - PNG/cdfview.dll_14_8196-2.png" alt="Shared" width="32" height="32" /><br>Shared</a>
+				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/Shared"><img src="/Windows Icons - PNG/cdfview.dll_14_8196-2.png" alt="Shared" width="32" height="32" /><br>Shared</a>
 				<p>
-				<a href="/Music"><img src="/Windows Icons - PNG/mmsys.cpl_14_4355-2.png" alt="Music" width="32" height="32" /><br>Music</a>
+				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/Music"><img src="/Windows Icons - PNG/mmsys.cpl_14_4355-2.png" alt="Music" width="32" height="32" /><br>Music</a>
 				<p>
 				<a href="/Bookmarks (WWW)"><img src="/Windows Icons - PNG/shdoclc.dll_14_191-4.png" alt="Bookmarks 1" width="32" height="32" /><br>Bookmarks (WWW)</a>
 				<p>
