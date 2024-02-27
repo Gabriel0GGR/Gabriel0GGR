@@ -80,7 +80,7 @@ Nintendo Wii</br>
 				<p>
 				<a href="/Bookmarks (TOR)"><img src="/Windows Icons - PNG/shdoclc.dll_14_191-4.png" alt="Bookmarks 2" width="32" height="32" /><br>Bookmarks (TOR)</a>
 				<p>
-				<a href=""><img src="/Windows Icons - PNG/shell32.dll_14_14-3.png" alt="Onion mirror" width="32" height="32" /><br>Onion mirror</a>
+				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/"><img src="/Windows Icons - PNG/shell32.dll_14_14-3.png" alt="Onion mirror" width="32" height="32" /><br>Onion mirror</a>
 				<p>
 				<a href=https://gabrielggrcom.wordpress.com/><img src="/Windows Icons - PNG/shell32.dll_14_14-3.png" alt="Website" width="32" height="32" /><br>Website</a>
 			</div>
