@@ -1,23 +1,3 @@
-body {
-	background-color:darkturquoise;
-	margin:0;
-	text-align:center;
-}
-
-div#container {
-	margin-left:auto;
-	margin-right:auto;
-	text-align:center;
-}
-
-div#links {
-	margin-left: 30px;
-	margin-right: 30px;
-	text-align: left;
-}
-
--->
-
 </style>
 	</head>
 		<body>
