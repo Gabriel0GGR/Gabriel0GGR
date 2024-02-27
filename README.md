@@ -1,5 +1,4 @@
-/head>
-	<body>
+		<body>
 		<h1>Welcome to the Gabriel GGR website</h1>
 			<div id="links">
 				<header>
