@@ -92,7 +92,7 @@ Nintendo Wii</br>
 			<img src="/Images/bitcoin.png" alt="Bitcoin address"/>
 			</div>
 </br>
-<iframe src="https://john.citrons.xyz/embed?ref=https://coherent-secure-bear.ngrok-free.app/" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+<iframe src="https://john.citrons.xyz/embed?ref=https://b25c8e7447cc9c.lhr.life/" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
 </br>
 		</body>
 </html>
