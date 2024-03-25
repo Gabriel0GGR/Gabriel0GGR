@@ -70,6 +70,8 @@ Nintendo Wii</br>
 				<p>
 				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion:8080"><img src="/Windows Icons - PNG/shdocvw.dll_14_111-6.png" alt="Search Engine" width="32" height="32" /><br>Search Engine</a>
 				<p>
+				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion:8000"><img src="/Windows Icons - PNG/ciadmin.dll_14_403-1.png" alt="Internet Archive" width="32" /><br>Internet Archive</a>
+				<p>
 				<a href="/Data"><img src="/Windows Icons - PNG/shell32.dll_14_10-6.png" alt="Data" width="32" height="32" /><br>Data</a>
 				<p>
 				<a href="/Shared"><img src="/Windows Icons - PNG/cdfview.dll_14_8196-2.png" alt="Shared" width="32" height="32" /><br>Shared</a>
