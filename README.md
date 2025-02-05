@@ -7,7 +7,8 @@
 <h3><a href="https://polcompball.miraheze.org/wiki/Category:Libertarian_Unity">Libertarian!</a></h3>
 					</div>
 <ul>
-<li><a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion/">Onion Website</a></li>
+<li><a href="http://gabrielggr.us.to/">Website</a></li>
+<li><a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
 <li><a href="https://xmpp.jp">XMPP: gabriel_ggr@xmpp.jp</a></li>
 <li>Matrix: <a href="https://pony.cx">Main: @gabriel0ggr:pony.cx</a> Others: <a href="https://matrix.horse">@gabriel0ggr:matrix.horse</a> <a href="https://mlp.chat">@gabriel0ggr:mlp.chat</a></li>
 <li><a href="irc://irc.anthrochat.net/">Servidor IRC (Em breve! Por enquanto deixo esse servidor top!)</a></li>
@@ -39,11 +40,32 @@
 
 <ul>
 <h1>Computer specifications:</h1>
-<b><i>Laptop (Acer Nitro AN515-55):</i></b></br>
-Processor: i5-10300H</br>
-Graphics card: NVIDIA GeForce GTX 1650</br>
-RAM: 24GB 3200MHz DDR4 (1x8GB + 1x16GB)</br>
-Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB + 1x SSD NVMe M.2 1TB</br>
+Desktop (Main):
+Motherboard: MACHINIST E5-RS9 (Intel H87) [BIOS MOD: Unlock Turbo Boost & v3_payne_20_20]
+Processor: E5-2699 v3 (-20mV/-20mV)
+Graphics card: AMD Radeon RX 6750 XT (Navi 22) [12GB]
+RAM: 64GB 2133MT/s DDR4 ECC RDIMM CL15 (4x16GB) [Quad-channel]
+PSU: MSI MAG A650BN
+WC: Rise Mode AURA ICE BLACK 240mm (Thermal paste: TS COLD)
+FAN: 1x Cougar 120mm (Case) + 2x Cooler Master SickleFlow 140mm ARGB
+Case: Cougar MX330-G PRO (White)
+Display: LG ‎24GS60F-B (180Hz IPS 10-bit)
+OS: Windows 11 Pro for Workstations / Gentoo OpenRC (Hyprland)
+https://valid.x86.fr/x7a574
+
+Laptop (Acer Nitro AN515-55):
+Processor: i5-10300H
+Graphics card: NVIDIA GeForce GTX 1650
+RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]
+Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB
+OS: FreeBSD (Installing in the moment of this commit :P)
+https://valid.x86.fr/laegpx
+
+Server (Acer Aspire M5-481T)
+Processor: i3-3227U
+RAM: 4GB DDR3L
+Storage: 1x HDD 500GB + 1x SSD 32GB
+OS: Arch Linux (CLI)
 
 <h1>Peripherals:</h1>
 Mouse: <b><i>Redragon King Cobra 2 Lunar White</i></b></br>
@@ -68,9 +90,9 @@ Nintendo Wii</br>
 			</div>
 			<div id="container">
 				<p>
-				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion:8080"><img src="/Windows Icons - PNG/shdocvw.dll_14_111-6.png" alt="Search Engine" width="32" height="32" /><br>Search Engine</a>
+				<a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion:8080"><img src="/Windows Icons - PNG/shdocvw.dll_14_111-6.png" alt="Search Engine" width="32" height="32" /><br>Search Engine</a>
 				<p>
-				<a href="http://de6frprzp2cn4g275rcc7fgcsfdm6pedpkuhiaop4klm5ob42cyjb2ad.onion:8000"><img src="/Windows Icons - PNG/ciadmin.dll_14_403-1.png" alt="Internet Archive" width="32" /><br>Internet Archive</a>
+				<a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion:8000"><img src="/Windows Icons - PNG/ciadmin.dll_14_403-1.png" alt="Internet Archive" width="32" /><br>Internet Archive</a>
 				<p>
 				<a href="/Data"><img src="/Windows Icons - PNG/shell32.dll_14_10-6.png" alt="Data" width="32" height="32" /><br>Data</a>
 				<p>
