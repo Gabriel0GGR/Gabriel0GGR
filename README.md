@@ -50,14 +50,14 @@ FAN: 1x Cougar 120mm (Case) + 2x Cooler Master SickleFlow 140mm ARGB</br>
 Case: Cougar MX330-G PRO (White)</br>
 Display: LG ‎24GS60F-B (180Hz IPS 10-bit)</br>
 OS: Windows 11 Pro for Workstations / Gentoo OpenRC (Hyprland)</br>
-
+<p></p>
 <a href="https://valid.x86.fr/laegpx">Laptop (Acer Nitro AN515-55):</a></br>
 Processor: i5-10300H</br>
 Graphics card: NVIDIA GeForce GTX 1650</br>
 RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]</br>
 Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
 OS: FreeBSD (Installing in the moment of this commit :P)</br>
-
+<p></p>
 Server (Acer Aspire M5-481T)</br>
 Processor: i3-3227U</br>
 RAM: 4GB DDR3L</br>
