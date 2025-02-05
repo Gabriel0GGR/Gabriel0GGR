@@ -58,7 +58,7 @@ RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]</br>
 Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
 OS: FreeBSD (Installing in the moment of this commit :P)</br>
 <p></p>
-Server (Acer Aspire M5-481T)</br>
+<a href="gopher://gabrielggr.us.to/">Server (Acer Aspire M5-481T):</a></br>
 Processor: i3-3227U</br>
 RAM: 4GB DDR3L</br>
 Storage: 1x HDD 500GB + 1x SSD 32GB</br>
