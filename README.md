@@ -9,7 +9,7 @@
 <ul>
 <li><a href="http://gabrielggr.us.to/">Website</a></li>
 <li><a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
-<li><a href="https://xmpp.jp">XMPP: gabriel_ggr@xmpp.jp</a></li>
+<li><a href="https://xmpp.gabrielggr.us.to:8443">XMPP: admin@xmpp.gabrielggr.us.to</a></li>
 <li>Matrix: <a href="https://pony.cx">Main: @gabriel0ggr:pony.cx</a> Others: <a href="https://matrix.horse">@gabriel0ggr:matrix.horse</a> <a href="https://mlp.chat">@gabriel0ggr:mlp.chat</a></li>
 <li><a href="irc://irc.anthrochat.net/">Servidor IRC (Em breve! Por enquanto deixo esse servidor top!)</a></li>
 <li><a href="https://www.youtube.com/channel/UCm8EiT6rHLlRe33jkjzl3XA">Youtube</a></li>
