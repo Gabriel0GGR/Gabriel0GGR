@@ -60,7 +60,7 @@ RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]</br>
 Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
 OS: FreeBSD (Installing in the moment of this commit :P)</br>
 <p></p>
-<a href="gopher://srv.gabrielggr.us.to/">Server (Website / DNS):</a></br>
+<a href="https://dns.gabrielggr.us.to:8443">Server (Website / DNS):</a></br>
 Motherboard: Asus H81M-A/BR</br>
 Processor: i3-4170</br>
 RAM: 8GB DDR3</br>
