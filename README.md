@@ -58,7 +58,7 @@ Processor: i5-10300H</br>
 Graphics card: NVIDIA GeForce GTX 1650</br>
 RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]</br>
 Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
-OS: FreeBSD (Installing in the moment of this commit :P)</br>
+OS: Arch Linux (KDE Plasma)</br>
 <p></p>
 <a href="https://dns.gabrielggr.us.to:8443">Server (Website / DNS):</a></br>
 Motherboard: Asus H81M-A/BR</br>
