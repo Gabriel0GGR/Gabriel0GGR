@@ -4,12 +4,12 @@
 				<header>
 					<div id="container">
 <h1 ><img src="/Images/pony-town-Gabriel (King)-stand-blinking-padded-16x.gif" width="15%"></h1>
-<h3><a href="https://polcompball.miraheze.org/wiki/Category:Libertarian_Unity">Libertarian!</a></h3>
+<h3><a href="https://gabrielggr.us.to/Shared/Daniel%20Fraga.mp4">Libertarian!</a></h3>
 					</div>
 <ul>
-<li>🌐<a href="http://gabrielggr.us.to/">Website</a></li>
-<li>🧅<a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
-<li>💬<a href="https://xmpp.gabrielggr.us.to:8443">XMPP: admin@xmpp.gabrielggr.us.to</a></li>
+<li>🌐 <a href="http://gabrielggr.us.to/">Website</a></li>
+<li>🧅 <a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
+<li>💬 <a href="https://xmpp.gabrielggr.us.to:8443">XMPP: admin@xmpp.gabrielggr.us.to</a></li>
 </ul>
 
 <ul><h1>Computer specifications:</h1></ul>
