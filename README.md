@@ -4,8 +4,8 @@
 				<header>
 					<div id="container">
 <h1 ><img src="/Images/pony-town-Gabriel (King)-stand-blinking-padded-16x.gif" width="15%"></h1>
-<img src="https://gabrielggr.us.to/Images/Computer_Neofetch.png" width="15%"></h1>
-<img src="https://gabrielggr.us.to/Images/Server_Neofetch.png" width="15%"></h1>
+<img src="https://gabrielggr.us.to/Images/Computer_Neofetch.png" width="40%">
+<img src="https://gabrielggr.us.to/Images/Server_Neofetch.png" width="40%">
 <h3><a href="https://polcompball.miraheze.org/wiki/Category:Libertarian_Unity">Libertarian!</a></h3>
 					</div>
 <ul>
