@@ -7,13 +7,13 @@
 <h3><a href="https://polcompball.miraheze.org/wiki/Category:Libertarian_Unity">Libertarian!</a></h3>
 					</div>
 <ul>
-<li><a href="http://gabrielggr.us.to/">Website</a></li>
-<li><a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
-<li><a href="https://xmpp.gabrielggr.us.to:8443">XMPP: admin@xmpp.gabrielggr.us.to</a></li>
+<li>🌐<a href="http://gabrielggr.us.to/">Website</a></li>
+<li>🧅<a href="http://gabriel3d46c3eadcelsjy6umlq7m4vfpxpopb7oyownyquvwxpxmuad.onion/">Onion Website</a></li>
+<li>💬<a href="https://xmpp.gabrielggr.us.to:8443">XMPP: admin@xmpp.gabrielggr.us.to</a></li>
 </ul>
 
 <ul><h1>Computer specifications:</h1></ul>
-<a href="https://valid.x86.fr/x7a574">Desktop (Main):</a></br>
+<a href="https://valid.x86.fr/x7a574"><img src="https://img.shields.io/badge/-Desktop-0366d6?style=flat-square&logo=linux&logoColor=white"> Desktop (Main):</a></br>
 Motherboard: MACHINIST E5-RS9 (Intel H87) [BIOS MOD: Unlock Turbo Boost & v3_payne_20_20]</br>
 Processor: E5-2699 v3 (-20mV/-20mV)</br>
 Graphics card: AMD Radeon RX 6750 XT (Navi 22) [12GB]</br>
@@ -25,14 +25,14 @@ Case: Cougar MX330-G PRO (White)</br>
 Display: LG ‎24GS60F-B (180Hz IPS 10-bit)</br>
 OS: Arch Linux (KDE Plasma) / Windows 11 Pro for Workstations</br>
 <p></p>
-<a href="https://valid.x86.fr/laegpx">Laptop (Acer Nitro AN515-55):</a></br>
+<a href="https://valid.x86.fr/laegpx"><img src="https://img.shields.io/badge/-Laptop-ff5555?style=flat-square&logo=acer&logoColor=white"> Laptop (Acer Nitro AN515-55):</a></br>
 Processor: i5-10300H</br>
 Graphics card: NVIDIA GeForce GTX 1650</br>
 RAM: 24GB 3200MT/s DDR4 (1x8GB + 1x16GB) [Dual-channel]</br>
 Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
 OS: Arch Linux (KDE Plasma)</br>
 <p></p>
-<a href="https://dns.gabrielggr.us.to:8443">Server (Website / DNS):</a></br>
+<a href="https://dns.gabrielggr.us.to:8443"><img src="https://img.shields.io/badge/-Server-2d2d2d?style=flat-square&logo=linux&logoColor=white"> Server (Website / DNS):</a></br>
 Motherboard: Asus H81M-A/BR</br>
 Processor: i3-4170</br>
 RAM: 8GB DDR3</br>
