@@ -38,7 +38,7 @@ OS: Arch Linux (KDE Plasma)</br>
 Motherboard: Asus H81M-A/BR</br>
 Processor: i3-4170</br>
 RAM: 8GB DDR3</br>
-PSU: Cooler Master RS-460-PSAR-J3
+PSU: Cooler Master RS-460-PSAR-J3</br>
 Storage: 1x SSD 240GB + 2x HDDs 1TB (RAID0)</br>
 OS: Arch Linux (CLI)</br>
 
