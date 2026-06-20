@@ -33,10 +33,10 @@ Storage: 1x SSD NVMe M.2 256GB + 1x HDD 1TB</br>
 OS: Arch Linux (KDE Plasma)</br>
 <p></p>
 <a href="https://dns.gabrielggr.us.to:8443"><img src="https://img.shields.io/badge/-Server-2d2d2d?style=flat-square&logo=linux&logoColor=white"> Server (Website / DNS):</a></br>
-Motherboard: Asus H81M-A/BR</br>
-Processor: i3-4170</br>
-RAM: 8GB DDR3</br>
-PSU: Cooler Master RS-460-PSAR-J3</br>
+Motherboard: Intel DH77KC</br>
+Processor: E3-1240 v2</br>
+RAM: 16GB DDR3</br>
+PSU: Gamdias Helios M1-550B</br>
 Storage: 1x SSD 240GB + 2x HDDs 1TB (RAID0)</br>
 OS: Arch Linux (CLI)</br>
 
