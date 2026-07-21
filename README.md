@@ -18,6 +18,7 @@ Motherboard: MACHINIST E5-RS9 (Intel H87) [BIOS MOD: Unlock Turbo Boost & v3_pay
 Processor: E5-2699 v3 (-20mV/-20mV)</br>
 Graphics card: AMD Radeon RX 6750 XT (Navi 22) [12GB]</br>
 RAM: 64GB 2133MT/s DDR4 ECC RDIMM CL15 (4x16GB) [Quad-channel]</br>
+Storage: 1x SSD NVMe M.2 1TB + 1x SSD SATA 1TB + 1x HDD SATA 1TB + 1x HDD USB 4TB</br>
 PSU: MSI MAG A650BN</br>
 WC: Rise Mode AURA ICE BLACK 240mm (Thermal paste: TS COLD)</br>
 FAN: 1x Cougar 120mm (Case) + 2x Cooler Master SickleFlow 140mm ARGB</br>
@@ -36,8 +37,9 @@ OS: Arch Linux (KDE Plasma)</br>
 Motherboard: Intel DH77KC</br>
 Processor: E3-1240 v2</br>
 RAM: 16GB DDR3</br>
-PSU: Gamdias Helios M1-550B</br>
 Storage: 1x SSD 240GB + 2x HDDs 1TB (RAID0)</br>
+PSU: Gamdias Helios M1-550B</br>
+Case: Thermaltake Core V71
 OS: Arch Linux (CLI)</br>
 
 <h1>Peripherals:</h1>
