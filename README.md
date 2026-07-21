@@ -39,7 +39,7 @@ Processor: E3-1240 v2</br>
 RAM: 16GB DDR3</br>
 Storage: 1x SSD 240GB + 2x HDDs 1TB (RAID0)</br>
 PSU: Gamdias Helios M1-550B</br>
-Case: Thermaltake Core V71
+Case: Thermaltake Core V71</br>
 OS: Arch Linux (CLI)</br>
 
 <h1>Peripherals:</h1>
